@@ -1,0 +1,1 @@
+This folder contains all the notebooks used for pre-processing the datasets. Currently, we only have a resume dataset. We will keep updating the contents of this folder as and when we broaden the scope of our project with larger corpus data.
